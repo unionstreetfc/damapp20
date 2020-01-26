@@ -19,6 +19,7 @@ import keithPic from './keith.jpg';
 import lucPic from './luc.jpg';
 import manusPic from './manus.jpg';
 import markPic from './mark.jpg';
+import mattPic from './matt.jpg';
 import mattyPic from './matty.jpg';
 import mooneyPic from './mooney.jpg';
 import pratchPic from './pratch.jpg';
@@ -129,6 +130,11 @@ let data = [
     name: 'Mark',
     age: '57',
     img: markPic
+  },
+  {
+    name: 'Matt',
+    age: '46',
+    img: mattPic
   },
   {
     name: 'Matthew',
