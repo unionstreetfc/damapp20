@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "07596408a1a3a6620b83d898713d3811",
+    "revision": "9391236c7c2cf2771db8e1de41b5e9bb",
     "url": "/damapp20/index.html"
   },
   {
-    "revision": "4a1114346f40c0101cbc",
+    "revision": "e6ac10fb83b34739f6fa",
     "url": "/damapp20/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "791e999538f2a8715372",
-    "url": "/damapp20/static/css/main.f40a38a2.chunk.css"
+    "revision": "3b479c02bcf1c3b25bc0",
+    "url": "/damapp20/static/css/main.b32500c7.chunk.css"
   },
   {
-    "revision": "4a1114346f40c0101cbc",
-    "url": "/damapp20/static/js/2.74ea754f.chunk.js"
+    "revision": "e6ac10fb83b34739f6fa",
+    "url": "/damapp20/static/js/2.128a9659.chunk.js"
   },
   {
     "revision": "f032203ca460334c00de541c30a6078a",
-    "url": "/damapp20/static/js/2.74ea754f.chunk.js.LICENSE"
+    "url": "/damapp20/static/js/2.128a9659.chunk.js.LICENSE"
   },
   {
-    "revision": "791e999538f2a8715372",
-    "url": "/damapp20/static/js/main.a6c77b2a.chunk.js"
+    "revision": "3b479c02bcf1c3b25bc0",
+    "url": "/damapp20/static/js/main.34be6c00.chunk.js"
   },
   {
     "revision": "1ab71e74aa689c2e4a7f",
     "url": "/damapp20/static/js/runtime-main.b5cb3b84.js"
+  },
+  {
+    "revision": "80ccaba5fe612d6672c716513e356f3c",
+    "url": "/damapp20/static/media/badgers.80ccaba5.jpg"
   },
   {
     "revision": "493246c7e16319e396688ddf0feddb95",
@@ -56,6 +60,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/damapp20/static/media/mark.efa2f102.jpg"
   },
   {
+    "revision": "35830b28c8fc882d9b66c15b686cc7dd",
+    "url": "/damapp20/static/media/matt.35830b28.jpg"
+  },
+  {
     "revision": "365530101deef2b2101a5942b09743b7",
     "url": "/damapp20/static/media/mooney.36553010.jpg"
   },
@@ -66,5 +74,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "473d6e53a78d30b000187bf8b9e3e83f",
     "url": "/damapp20/static/media/smithy.473d6e53.jpeg"
+  },
+  {
+    "revision": "d99bb38b11a9993979ac60f12d376051",
+    "url": "/damapp20/static/media/zero.d99bb38b.png"
   }
 ]);
